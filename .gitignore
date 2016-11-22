@@ -1,0 +1,33 @@
+### this app
+database.yaml
+*.bak
+debug
+
+### https://raw.github.com/github/gitignore/608690d6b9a78c2a003affc792e49a84905b3118/go.gitignore
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
+
